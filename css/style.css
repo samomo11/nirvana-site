@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#next-page-home {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  width: 40%;
+}
+
+#next-page-home img {
+  width: 100%;
+}
+
+#next-page {
+  position: absolute;
+  top: 83%;
+  left: 80%;
+  width: 15%;
+}
+
+#next-page img {
+  width: 100%;
+}
+
+#homepage {
+  background-image: url("../img/water.jpeg");
+  background-size: cover;
+}
+
+h2 {
+  position: absolute;
+  font-family: url(../font/onyx.otf);
+}
+
+#Nirvana {
+  font-family: url(../font/onyx.otf);
+}
