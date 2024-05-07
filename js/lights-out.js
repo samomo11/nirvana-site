@@ -2,7 +2,7 @@ var mappedYposition;
 var font;
 
 function preload() {
-  font = loadFont("../font/onyx.otf");
+  font = loadFont("font/onyx.otf");
 }
 
 function setup() {

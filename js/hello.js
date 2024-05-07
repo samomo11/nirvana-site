@@ -21,7 +21,7 @@ var font;
 
 function preload() {
   pool = loadImage("../img/water.jpeg");
-  font = loadFont("../font/onyx.otf");
+  font = loadFont("font/onyx.otf");
 }
 
 function setup() {

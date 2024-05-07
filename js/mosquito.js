@@ -9,7 +9,7 @@ var squares = []; //this variable is an array where we will hold our square obje
 
 function preload() {
   mosquito = loadImage("../img/mosquito.png");
-  font = loadFont("../font/onyx.otf");
+  font = loadFont("font/onyx.otf");
 }
 
 function setup() {
