@@ -57,3 +57,13 @@ canvas {
   margin-left: 40pt;
   margin-top: 0pt;
 }
+
+#click {
+  position: absolute;
+  top: 5%;
+  left: 25%;
+  font-size: 30pt;
+  letter-spacing: 15px;
+  font-weight: lighter;
+  color: black;
+}
