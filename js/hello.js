@@ -20,7 +20,7 @@ var wordIndex = 0;
 var font;
 
 function preload() {
-  pool = loadImage("../img/water.jpeg");
+  pool = loadImage("img/water.jpeg");
   font = loadFont("font/onyx.otf");
 }
 

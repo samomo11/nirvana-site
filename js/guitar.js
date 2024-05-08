@@ -3,7 +3,7 @@ var guitar;
 var font;
 
 function preload() {
-  guitar = loadImage("../img/guitar.webp");
+  guitar = loadImage("img/guitar.webp");
   font = loadFont("font/onyx.otf");
 }
 

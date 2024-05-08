@@ -8,7 +8,7 @@ var font;
 var squares = []; //this variable is an array where we will hold our square objects
 
 function preload() {
-  mosquito = loadImage("../img/mosquito.png");
+  mosquito = loadImage("img/mosquito.png");
   font = loadFont("font/onyx.otf");
 }
 

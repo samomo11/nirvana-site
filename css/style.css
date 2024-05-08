@@ -1,5 +1,11 @@
+@font-face {
+  src: url("../font/onyx.otf");
+  font-family: onyx;
+}
+
 html,
 body {
+  font-family: onyx;
   margin: 0;
   padding: 0;
 }
@@ -32,13 +38,4 @@ canvas {
 #homepage {
   background-image: url("../img/water.jpeg");
   background-size: cover;
-}
-
-h2 {
-  position: absolute;
-  font-family: url(../font/onyx.otf);
-}
-
-#Nirvana {
-  font-family: url(../font/onyx.otf);
 }
