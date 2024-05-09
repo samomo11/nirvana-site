@@ -67,3 +67,13 @@ canvas {
   font-weight: lighter;
   color: black;
 }
+
+#mouse {
+  position: absolute;
+  top: 5%;
+  left: 40%;
+  font-size: 20pt;
+  letter-spacing: 15px;
+  font-weight: lighter;
+  color: black;
+}

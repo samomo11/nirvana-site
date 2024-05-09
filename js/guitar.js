@@ -17,7 +17,7 @@ function setup() {
 function draw() {
   background(17, 139, 200);
 
-  textSize(70);
+  textSize(100);
   noStroke();
   fill(245, 203, 92); // yellow
   // textAlign(LEFT);
